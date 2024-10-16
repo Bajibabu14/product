@@ -1,0 +1,264 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 160vh;
+    width: 100%;
+    background-color: #cccccc;
+}
+.nav{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+}
+.filter{
+    width: 28%;
+    height: 80vh;
+    background-color: #cccccc;
+}
+.one{
+    margin-left: 20px;
+}
+.one input{
+    padding: 5px 10px 5px 10px;
+    border: none;
+}
+h3{
+    padding: 10px;
+}
+.a{
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    padding: 4px;
+    font-weight: bold;
+}
+.two{
+    margin-left: 20px;
+}
+.two ul{
+    list-style: none;
+}
+.two li{
+    padding: 3px 0 3px 0;
+}
+.two a{
+    text-decoration: none;
+    color: #666666;
+}
+.two a:hover{
+    text-decoration: underline;
+}
+
+
+.content{
+    height: 80vh;
+    width: 70%;
+    background-color: #cccccc;
+    margin-left: 30px;
+}
+.content img{
+    padding: 10px;
+}
+.content a{
+    text-decoration: none;
+    color: #222abb;
+}
+h2{
+    margin-top: 40px;
+}
+.row-1{
+    display: flex;
+    margin-top: 20px;
+}
+.row-2{
+    display: flex;
+}
+.row-3{
+    display: flex;
+}
+.box-1{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-2{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-3{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-4{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-5{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-6{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-7{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-8{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-9{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-10{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-11{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-12{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-13{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-14{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.box-15{
+    height: 154px;
+    width: 164px;
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.sec{
+    width: 100%;
+    height: 60vh;
+    background-color: #cccccc;
+}
+.sec h2{
+    padding-left: 30px;
+}
+.foot{
+    margin-top: 30px;
+    display: flex;
+}
+.foot a{
+    text-decoration: none;
+    color: #666666;
+}
+.foot a h3{
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+}
+.foot p{
+    padding: 10px;
+    color: #222222;
+}
+.four{
+    height: 200px;
+    width: 420px;
+    background-color: white;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.five{
+    height: 200px;
+    width: 420px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.six{
+    height: 200px;
+    width: 420px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
